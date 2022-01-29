@@ -1,0 +1,106 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/FifoPointAgenda.h
+PointAgenda.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/PointAgenda.h
+Queue_t.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Queue_t.h
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/LifoPointAgenda.h
+PointAgenda.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/PointAgenda.h
+Stack_t.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Stack_t.h
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Main.cpp
+iostream
+-
+algorithm
+-
+Maze.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Maze.h
+PointAgenda.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/PointAgenda.h
+LifoPointAgenda.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/LifoPointAgenda.h
+FifoPointAgenda.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/FifoPointAgenda.h
+MazeSolver.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/MazeSolver.h
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Maze.cpp
+stdexcept
+-
+cstdlib
+-
+Maze.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Maze.h
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Maze.h
+string
+-
+fstream
+-
+iostream
+-
+Point.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Point.h
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/MazeSolver.cpp
+MazeSolver.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/MazeSolver.h
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/MazeSolver.h
+PointAgenda.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/PointAgenda.h
+Maze.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Maze.h
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Point.cpp
+Point.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Point.h
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Point.h
+iostream
+-
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/PointAgenda.h
+Point.h
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Point.h
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Queue_t.cpp
+cstddef
+-
+stdexcept
+-
+string
+-
+iostream
+-
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Queue_t.h
+cstddef
+-
+Queue_t.cpp
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Queue_t.cpp
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Stack_t.cpp
+cstddef
+-
+stdexcept
+-
+string
+-
+iostream
+-
+
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Stack_t.h
+Stack_t.cpp
+C:/Users/Johan/Documents/Vanderbilt/2201 Projects/PROJECTS/project7/project7/Stack_t.cpp
+
